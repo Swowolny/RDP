@@ -20,11 +20,7 @@ sudo apt install --assume-yes --fix-broken
 sudo apt install nautilus nano -y 
 sudo apt -y install obs-studio
 sudo apt -y install firefox
-sudo apt -y install synaptic
-sudo apt -y install gdebi-core
-sudo apt -y install gdebi
 sudo apt -y install mc
-sudo apt -y install openssh-server
 sudo apt -y install terminator
 sudo adduser ALOK chrome-remote-desktop
 } &> /dev/null &&
