@@ -22,6 +22,8 @@ sudo apt -y install obs-studio
 sudo apt -y install firefox
 sudo apt -y install mc
 sudo apt -y install terminator
+sudo apt -y install gdebi-core
+sudo apt -y install gdebi
 sudo adduser ALOK chrome-remote-desktop
 } &> /dev/null &&
 printf "\nSetup Completed " >&2 ||
